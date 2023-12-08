@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+
+
+/*sa baba yung kukunin mu ali*/
+#map {
+    height: 60vh;
+    width: 150vh;
+    margin: auto;
+    
+}
+
+/*CSS FOR HEALTH CARE CENTER INFO WINDOWS */
+.firstHeading {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+
+.gm-style-iw-d {
+    background-color: aqua;
+}
